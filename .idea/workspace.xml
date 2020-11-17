@@ -1,9 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12c7b42-03be-4b6d-bf1c-1be50a551110" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b12c7b42-03be-4b6d-bf1c-1be50a551110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmyRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitsSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaesarCypher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DutchNationalFlagProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FairIndexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibFrog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdenticalConsecutiveLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthSymbolGrammar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestIncreasingSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringNoRepeatingChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxConcatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxDistanceBtwnMonkeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinCostTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinDeletionCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinDeletions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovieFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepeatedDna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SameHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smooth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueNumsAddingUpToZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Combination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/PhotoCombs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhotoCombs.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,42 +58,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PhotoCombs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#73#74#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Combination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -55,82 +65,52 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/PhotoCombs.java" />
-        <option value="$PROJECT_DIR$/src/Combination.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="730" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1j0CGb4SiVYSXW8EKIP5BFAwdEK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PhotoCombs">
-    <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Combination" />
+  <component name="RunManager" selected="Application.DataTransfer">
+    <configuration name="BitsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitsSet" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClimbStairs" />
       <module name="Algorithms" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhotoCombs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PhotoCombs" />
+    <configuration name="DataTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTransfer" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinDeletions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinDeletions" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNum" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,12 +118,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PhotoCombs" />
-        <item itemvalue="Application.Combination" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DataTransfer" />
+        <item itemvalue="Application.ClimbStairs" />
+        <item itemvalue="Application.BitsSet" />
+        <item itemvalue="Application.MinDeletions" />
+        <item itemvalue="Application.MissingNum" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -159,79 +142,109 @@
       <workItem from="1593860565039" duration="592000" />
       <workItem from="1593977254510" duration="10000" />
       <workItem from="1594114384735" duration="483000" />
-      <workItem from="1594661966036" duration="8916000" />
+      <workItem from="1594661966036" duration="9609000" />
+      <workItem from="1594756137933" duration="97000" />
+      <workItem from="1594902151731" duration="8756000" />
+      <workItem from="1595265142253" duration="7856000" />
+      <workItem from="1595317518282" duration="158000" />
+      <workItem from="1595484928128" duration="5217000" />
+      <workItem from="1595796350285" duration="923000" />
+      <workItem from="1595835704662" duration="508000" />
+      <workItem from="1595878253646" duration="3148000" />
+      <workItem from="1595937502232" duration="1182000" />
+      <workItem from="1596052862086" duration="7537000" />
+      <workItem from="1596663172332" duration="1000" />
+      <workItem from="1596749911708" duration="985000" />
+      <workItem from="1596832766584" duration="324000" />
+      <workItem from="1597063313542" duration="70000" />
+      <workItem from="1597387972546" duration="2299000" />
+      <workItem from="1597497238325" duration="596000" />
+      <workItem from="1597904805754" duration="3038000" />
+      <workItem from="1597920491910" duration="94000" />
+      <workItem from="1597934543824" duration="562000" />
+      <workItem from="1597946513329" duration="40000" />
+      <workItem from="1598175366570" duration="5061000" />
+      <workItem from="1598545648225" duration="11032000" />
+      <workItem from="1598817220904" duration="4191000" />
+      <workItem from="1599023863730" duration="3203000" />
+      <workItem from="1599163752596" duration="453000" />
+      <workItem from="1599630084904" duration="3280000" />
+      <workItem from="1599719994720" duration="5064000" />
+      <workItem from="1599805898635" duration="296000" />
+      <workItem from="1599999422531" duration="2016000" />
+      <workItem from="1600062654626" duration="2647000" />
+      <workItem from="1600151577750" duration="1049000" />
+      <workItem from="1600234659158" duration="6832000" />
+      <workItem from="1600248292021" duration="1252000" />
+      <workItem from="1600506737142" duration="6475000" />
+      <workItem from="1600754928697" duration="612000" />
+      <workItem from="1600842299657" duration="2739000" />
+      <workItem from="1600900082151" duration="2092000" />
+      <workItem from="1601013397434" duration="2133000" />
+      <workItem from="1601198762163" duration="287000" />
+      <workItem from="1601619326681" duration="4785000" />
+      <workItem from="1601646761671" duration="2719000" />
+      <workItem from="1601980159597" duration="8555000" />
+      <workItem from="1602533851322" duration="385000" />
+      <workItem from="1602585888548" duration="2084000" />
+      <workItem from="1602683653424" duration="5207000" />
+      <workItem from="1602868302757" duration="2896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14836000" />
+    <option name="totallyTimeSpent" value="146265000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2609375" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4460719" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39946738" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="CheckStyle" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="SonarLint" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PhotoCombs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Combination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1602944634271">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1602944634271" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1605550976143">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605550976143" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1605550976141">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605550976141" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1605550976140">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605550976140" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1605550976142">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605550976142" />
+    <state x="343" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603010830486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="343" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1603010830486" />
+    <state x="245" y="193" width="950" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603630427523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="245" y="193" width="950" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1603630427523" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

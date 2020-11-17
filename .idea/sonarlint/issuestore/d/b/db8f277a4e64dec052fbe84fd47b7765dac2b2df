@@ -1,0 +1,6 @@
+
+C
+java:S1481"(Remove this unused "arr" local variable.(…¬À¯8çÑ·¹.
+m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•äƒœøÿÿÿÿ8¨İ®¹.
+R
+java:S1854"7Remove this useless assignment to local variable "arr".(…¬À¯8çÑ·¹.
