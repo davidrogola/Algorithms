@@ -2,53 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b12c7b42-03be-4b6d-bf1c-1be50a551110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArmyRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BestTrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitsSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaesarCypher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DutchNationalFlagProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EqualDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FairIndexes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibFrog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IdenticalConsecutiveLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthSymbolGrammar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestIncreasingSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestSubstringNoRepeatingChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxConcatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxDistanceBtwnMonkeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinCostTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinDeletionCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinDeletions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MissingNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovieFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatedDna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SameHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Smooth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniqueNumsAddingUpToZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOddArrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LexographicalySmallestStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovingMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RunLengthEncoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Combination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/PhotoCombs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PhotoCombs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/MinDeletions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/MinDeletions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinDeletions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinDeletions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +32,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MovingMedian.java" />
+        <option value="$PROJECT_DIR$/src/MinDeletions.java" />
+        <option value="$PROJECT_DIR$/src/LexographicalySmallestStr.java" />
+        <option value="$PROJECT_DIR$/src/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/EvenOddArrangement.java" />
+        <option value="$PROJECT_DIR$/src/RunLengthEncoding.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/LongestPeak.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
+  </component>
   <component name="ProjectId" id="1j0CGb4SiVYSXW8EKIP5BFAwdEK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,37 +88,37 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
-  <component name="RunManager" selected="Application.DataTransfer">
-    <configuration name="BitsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitsSet" />
+  <component name="RunManager" selected="Application.MaxSubsetSum">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClimbStairs" />
+    <configuration name="EvenOddArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOddArrangement" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTransfer" />
+    <configuration name="LongestPeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestPeak" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDeletions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinDeletions" />
+    <configuration name="MaxSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxSubsetSum" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MissingNum" />
+    <configuration name="RunLengthEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunLengthEncoding" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataTransfer" />
-        <item itemvalue="Application.ClimbStairs" />
-        <item itemvalue="Application.BitsSet" />
-        <item itemvalue="Application.MinDeletions" />
-        <item itemvalue="Application.MissingNum" />
+        <item itemvalue="Application.MaxSubsetSum" />
+        <item itemvalue="Application.LongestPeak" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.RunLengthEncoding" />
+        <item itemvalue="Application.EvenOddArrangement" />
       </list>
     </recent_temporary>
   </component>
@@ -189,11 +197,20 @@
       <workItem from="1602585888548" duration="2084000" />
       <workItem from="1602683653424" duration="5207000" />
       <workItem from="1602868302757" duration="2896000" />
+      <workItem from="1605639621181" duration="15973000" />
+      <workItem from="1610123686475" duration="1977000" />
+      <workItem from="1610385723117" duration="392000" />
+      <workItem from="1610527009038" duration="5104000" />
+      <workItem from="1611834021299" duration="1563000" />
+      <workItem from="1612115346363" duration="1638000" />
+      <workItem from="1612451860930" duration="3146000" />
+      <workItem from="1612864549440" duration="584000" />
+      <workItem from="1613216430281" duration="3126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146265000" />
+    <option name="totallyTimeSpent" value="172912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,38 +221,44 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1602944634271">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1602944634271" />
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1605550976143">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605550976143" />
-    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1605550976141">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605550976141" />
-    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1605550976140">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605550976140" />
-    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1605550976142">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605550976142" />
-    <state x="343" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603010830486">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="343" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1603010830486" />
-    <state x="245" y="193" width="950" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603630427523">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="245" y="193" width="950" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1603630427523" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -246,5 +269,107 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MovingMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArmyRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvenOddArrangement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EqualDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RunLengthEncoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinDeletions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LexographicalySmallestStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IdenticalConsecutiveLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestPeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
