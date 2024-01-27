@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b12c7b42-03be-4b6d-bf1c-1be50a551110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenOddArrangement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LexographicalySmallestStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxSubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovingMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RunLengthEncoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/MinDeletions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/MinDeletions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinDeletions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinDeletions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClimbStairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +77,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/david.ogola/Documents/GitHub/Algorithms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="Application.MaxSubsetSum">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
@@ -206,6 +208,7 @@
       <workItem from="1612451860930" duration="3146000" />
       <workItem from="1612864549440" duration="584000" />
       <workItem from="1613216430281" duration="3126000" />
+      <workItem from="1706383151560" duration="735000" />
     </task>
     <servers />
   </component>

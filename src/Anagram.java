@@ -4,7 +4,7 @@ public class Anagram {
 
   public static void main(String [] args) {
     String [] test = new String[]{"oy", "yo"};
-    System.out.println(isAnagram("MUMM", "MMMM"));
+    System.out.println(isAnagram("MDMD", "MDMD"));
   }
 
   public static boolean isAnagram(String str1, String str2) {
