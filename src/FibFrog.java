@@ -4,6 +4,7 @@ public class FibFrog {
   public static void main(String[] args) {
     int[] p = {0,0,0,1, 1,0,1,0,0,0,0};
     System.out.println(genMinimumJumps(p));
+    System.out.println(genMinimumJumps(p));
   }
 
   public static int genMinimumJumps(int[] a) {
